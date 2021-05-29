@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,iptvtools_1
-http://api.voicerss.org/?key=08d95705ace2403eb8347d1aae694f64&hl=en-us&src=Saravana, Channel number 1!
+http://api.voicerss.org/?key=08d95705ace2403eb8347d1aae694f64&hl=en-us&c=MP3&src=Saravana, News channel coming !
 #EXTINF:-1,iptvtools_1
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 #EXTINF:-1,iptvtools_2
