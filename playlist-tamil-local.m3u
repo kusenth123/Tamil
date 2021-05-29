@@ -291,3 +291,5 @@ https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3
 https://jk3lzaj4dw79-hls-live.5centscdn.com/stream/508c75c8507a2ae5223dfd2faeb98122.sdp/chunks.m3u8
 #EXTINF:-1,iptvtools_148
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
+#EXTINF:-1,iptvtools_149
+http://api.voicerss.org/?key=08d95705ace2403eb8347d1aae694f64&hl=en-us&src=Hello, world!
