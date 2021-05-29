@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,iptvtools_1
-https://github.com/kusenth123/Tamil/blob/main/saravana.ts?raw=true
+https://github.com/kusenth123/Tamil/blob/main/Channel_1.ts?raw=true
 #EXTINF:-1,iptvtools_1
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 #EXTINF:-1,iptvtools_2
@@ -22,7 +22,7 @@ http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
 #EXTINF:-1,iptvtools_10
 http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 #EXTINF:-1,iptvtools_11
-http://api.voicerss.org/?key=08d95705ace2403eb8347d1aae694f64&hl=en-us&src=Saravana, Channel number 11!
+https://github.com/kusenth123/Tamil/blob/main/Channel_11.ts?raw=true
 #EXTINF:-1,iptvtools_11
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
 #EXTINF:-1,iptvtools_12
@@ -44,7 +44,7 @@ http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 #EXTINF:-1,iptvtools_20
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
 #EXTINF:-1,iptvtools_21
-http://api.voicerss.org/?key=08d95705ace2403eb8347d1aae694f64&hl=en-us&src=Saravana, Channel number 21!
+https://github.com/kusenth123/Tamil/blob/main/Channel_21.ts?raw=true
 #EXTINF:-1,iptvtools_21
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
 #EXTINF:-1,iptvtools_22
@@ -66,7 +66,7 @@ https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm_low/inde
 #EXTINF:-1,iptvtools_30
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
 #EXTINF:-1,iptvtools_31
-http://api.voicerss.org/?key=08d95705ace2403eb8347d1aae694f64&hl=en-us&src=Saravana, Channel number 31!
+https://github.com/kusenth123/Tamil/blob/main/Channel_31.ts?raw=true
 #EXTINF:-1,iptvtools_31
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1,iptvtools_32
@@ -88,7 +88,7 @@ http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 #EXTINF:-1,iptvtools_40
 http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
 #EXTINF:-1,iptvtools_41
-http://api.voicerss.org/?key=08d95705ace2403eb8347d1aae694f64&hl=en-us&src=Saravana, Channel number 41!
+https://github.com/kusenth123/Tamil/blob/main/Channel_41.ts?raw=true
 #EXTINF:-1,iptvtools_41
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 #EXTINF:-1,iptvtools_42
@@ -110,7 +110,7 @@ http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(02)/index.m3u8
 #EXTINF:-1,iptvtools_50
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/Stream(02)/index.m3u8
 #EXTINF:-1,iptvtools_51
-http://api.voicerss.org/?key=08d95705ace2403eb8347d1aae694f64&hl=en-us&src=Saravana, Channel number 51!
+https://github.com/kusenth123/Tamil/blob/main/Channel_51.ts?raw=true
 #EXTINF:-1,iptvtools_51
 https://stream.skygaintv.com/LiveApp/streams/841444019223041560075808.m3u8
 #EXTINF:-1,iptvtools_52
@@ -132,7 +132,7 @@ http://mediastreamer.7starcloud.com:1935/arktv/arktv/playlist.m3u8
 #EXTINF:-1,iptvtools_60
 http://velurtv.7starcloud.com:1935/velurtv/livestream/playlist.m3u8
 #EXTINF:-1,iptvtools_61
-http://api.voicerss.org/?key=08d95705ace2403eb8347d1aae694f64&hl=en-us&src=Saravana, Channel number 61!
+https://github.com/kusenth123/Tamil/blob/main/Channel_61.ts?raw=true
 #EXTINF:-1,iptvtools_61
 http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
 #EXTINF:-1,iptvtools_62
@@ -154,7 +154,7 @@ http://hdserver.7starcloud.com:1935/live/kalvii/playlist.m3u8
 #EXTINF:-1,iptvtools_70
 http://51.79.158.179:1935/omtvjak/livetv/playlist.m3u8
 #EXTINF:-1,iptvtools_71
-http://api.voicerss.org/?key=08d95705ace2403eb8347d1aae694f64&hl=en-us&src=Saravana, Channel number 71!
+https://github.com/kusenth123/Tamil/blob/main/Channel_71.ts?raw=true
 #EXTINF:-1,Polimer TV
 http://watchindia.net:8880/live/60275/20486/2147.ts
 #EXTINF:-1,iptvtools_72
@@ -176,7 +176,7 @@ http://waytv.livebox.co.in/waytvhls/waytv.m3u8
 #EXTINF:-1,iptvtools_80
 http://account11.livebox.co.in/jcvtvhls/live.m3u8
 #EXTINF:-1,iptvtools_81
-http://api.voicerss.org/?key=08d95705ace2403eb8347d1aae694f64&hl=en-us&src=Saravana, Channel number 81!
+https://github.com/kusenth123/Tamil/blob/main/Channel_81.ts?raw=true
 #EXTINF:-1,iptvtools_81
 https://cdn.rjdigilink.in/rjtamiltv/livetv/playlist.m3u8
 #EXTINF:-1,iptvtools_82
@@ -196,7 +196,7 @@ http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
 #EXTINF:-1,iptvtools_90
 https://account24.livebox.co.in/kinghls/king.m3u8
 #EXTINF:-1,iptvtools_91
-http://api.voicerss.org/?key=08d95705ace2403eb8347d1aae694f64&hl=en-us&src=Saravana, Channel number 91!
+https://github.com/kusenth123/Tamil/blob/main/Channel_91.ts?raw=true
 #EXTINF:-1,iptvtools_91
 http://media.7starcloud.com:1935/harimedia/live1/playlist.m3u8
 #EXTINF:-1,iptvtools_92
@@ -218,7 +218,7 @@ http://livematrix.in:1935/live/mirrortv/playlist.m3u8
 #EXTINF:-1,iptvtools_100
 http://198.144.149.82:8080/NOTV/UZHAVANTV/index.m3u8?token=GTR
 #EXTINF:-1,iptvtools_101
-http://api.voicerss.org/?key=08d95705ace2403eb8347d1aae694f64&hl=en-us&src=Saravana, Channel number 101!
+https://github.com/kusenth123/Tamil/blob/main/Channel_101.ts?raw=true
 #EXTINF:-1,iptvtools_101
 http://singamcloud.in:8080/kalaicinema/kalaicinema/playlist.m3u8
 #EXTINF:-1,iptvtools_102
@@ -240,7 +240,7 @@ http://account26.livebox.co.in/Jeyamcabletvhls/live.m3u8
 #EXTINF:-1,iptvtools_110
 https://cdn.rjdigilink.in/jjmax/livetv/playlist.m3u8
 #EXTINF:-1,iptvtools_111
-http://api.voicerss.org/?key=08d95705ace2403eb8347d1aae694f64&hl=en-us&src=Saravana, Channel number 111!
+https://github.com/kusenth123/Tamil/blob/main/Channel_111.ts?raw=true
 #EXTINF:-1,iptvtools_111
 http://198.144.149.82:8080/NOTV/JAYAMTV/index.m3u8?token=GTR
 #EXTINF:-1,iptvtools_113
@@ -260,7 +260,7 @@ http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
 #EXTINF:-1,iptvtools_120
 http://198.144.149.82:8080/DINESH/JVISION/index.m3u8?token=GTR
 #EXTINF:-1,iptvtools_121
-http://api.voicerss.org/?key=08d95705ace2403eb8347d1aae694f64&hl=en-us&src=Saravana, Channel number 121!
+https://github.com/kusenth123/Tamil/blob/main/Channel_121.ts?raw=true
 #EXTINF:-1,iptvtools_121
 http://103.199.160.85:80/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
 #EXTINF:-1,iptvtools_122
@@ -282,7 +282,7 @@ http://singamcloud.in:8080/rasinetwork/rasimovies/playlist.m3u8
 #EXTINF:-1,iptvtools_130
 http://singamcloud.in:8080/rasinetwork/rasiclassic/playlist.m3u8
 #EXTINF:-1,iptvtools_131
-http://api.voicerss.org/?key=08d95705ace2403eb8347d1aae694f64&hl=en-us&src=Saravana, Channel number 131!
+https://github.com/kusenth123/Tamil/blob/main/Channel_131.ts?raw=true
 #EXTINF:-1,iptvtools_131
 http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
 #EXTINF:-1,iptvtools_132
@@ -304,7 +304,7 @@ https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996
 #EXTINF:-1,iptvtools_140
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
 #EXTINF:-1,iptvtools_141
-http://api.voicerss.org/?key=08d95705ace2403eb8347d1aae694f64&hl=en-us&src=Saravana, Channel number 141!
+https://github.com/kusenth123/Tamil/blob/main/Channel_141.ts?raw=true
 #EXTINF:-1,iptvtools_141
 http://hdserver.7starcloud.com:1935/newsplus/live/playlist.m3u8
 #EXTINF:-1,iptvtools_142
